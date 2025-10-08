@@ -1,5 +1,6 @@
 # BDD-Rank-order
-Hungarian algorithm
+Method: Hungarian algorithm
+
 Goal: The goal of the project will be to write a piece of software that matches N patients with K doctors. Each patient is allowed to provide a ranked list of their preference for doctors, however doctors are prohibited from displaying preferences for patients. Thus the code should take in the following:
 
 - A list of ranked preferences, 1 list for each patient
